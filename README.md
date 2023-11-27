@@ -17,12 +17,13 @@ DM Series Dimmers
 SW Series Switches
 SP Series Outlet
 RM Series Load Controllers
+FLP55 Flextherm thermostats
 
 ## Installation
 
 Install the plugin:
 ```
-sudo npm install -g homebridge-sinope-devices
+sudo npm install -g homebridge-sinope-neviweb
 ```
 
 ## Configuration

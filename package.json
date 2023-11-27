@@ -1,16 +1,16 @@
 {
   "private": false,
-  "displayName": "Homebridge Sinope",
-  "name": "homebridge-sinope-devices",
-  "version": "1.0.3",
+  "displayName": "Homebridge Sinope Neviweb",
+  "name": "homebridge-sinope-neviweb",
+  "version": "1.0.5",
   "description": "Unofficial API for Sinope thermostats",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git://github.com/frobichaud/homebridge-sinope.git"
+    "url": "git://github.com/tleunen/homebridge-sinope.git"
   },
   "bugs": {
-    "url": "https://github.com/frobichaud/homebridge-sinope/issues"
+    "url": "https://github.com/tleunen/homebridge-sinope/issues"
   },
   "engines": {
     "node": ">=14.18.1",
